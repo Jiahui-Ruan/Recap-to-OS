@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ryan_Garfield/Documents/OS/recap/linkedlist/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
